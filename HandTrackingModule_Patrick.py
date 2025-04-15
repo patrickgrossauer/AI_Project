@@ -5,7 +5,6 @@ Website: https://www.computervision.zone/
 """
 
 import math
-
 import cv2
 import mediapipe as mp
 
